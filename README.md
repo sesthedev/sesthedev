@@ -71,7 +71,7 @@
       </td>
     </tr>
     <tr>
-      <td>
+      <td width="300" valign="top">
         state_management:<br/><br/>
         <div align="center">[
           <span title="Vuex">
@@ -82,7 +82,7 @@
           </span>
         ],</div>
       </td>
-      <td>
+      <td width="300" valign="top">
         data_fetching:<br/><br/>
         <div align="center">[
           <span title="TanStack Query">
@@ -93,7 +93,7 @@
           </span>
         ],</div>
       </td>
-      <td>
+      <td width="300" valign="top">
         tools:<br/><br/>
         <div align="center">[
           <span title="Github">
@@ -113,7 +113,7 @@
           </span>
         ],</div>
       </td>
-      <td>
+      <td width="300" valign="top">
         deployment:<br/><br/>
         <div align="center">[
           <span title="GoDaddy">
