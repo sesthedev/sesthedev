@@ -10,7 +10,13 @@
   title: "Rhymeses E. Cortez",
   roles: ["Front-end Developer", "Web Developer", "Mobile Developer"],
   college_program: "Bachelor of Science in Information Technology Major in Mobile Development",
-  brief_introduction: "I’m a mobile and web developer with over 2 years of experience in the front-end side, and recently started working on my back-end skills. My expertise lies towards developing software solutions, building responsive and robust applications. Beyond development, I am also skilled at designing the system’s UI/UX, coordination with clients, and project deployment."
+  experience: {
+    developed_mobile_applications: 3,
+    developed_web_applications: 7,
+    clients_served: 5,
+    years_of_experience: 2
+  },
+  brief_introduction: "I’m a fresh graduate with over 2 years of experience as a mobile and web developer in the front-end side, and recently started working on my back-end skills. My expertise lies towards developing software solutions, building responsive and robust applications. Beyond development, I am also skilled at designing the system’s UI/UX, coordination with clients, and project deployment.",
 }</code>
 </div>
 
@@ -129,16 +135,7 @@
   <code>}</code>
 </div>
 
-<div>
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sesthedev&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sesthedev&layout=compact" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sesthedev" />
-</p>
-</div>
 
 <!-- <code>const CONTACT ME = { 
   mobile_number: "09278279865",
