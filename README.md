@@ -157,10 +157,10 @@
       </td>
       <td width="1000">
         <code>{
-  name: "Citizens Health Information Management Systems",
-  description: "A web-based healthcare platform that streamlines hospital service scheduling and centralizes patient health records for residents of a municipality.",
-  role: "Led the development of system features and user interfaces while managing task delegation and maintaining an organized development workflow.",  
-  <div>tech_stack: [ <span title="JavaScript">  <img src="https://skillicons.dev/icons?i=js" width="20" /> </span>, <span title="Vue"> <img src="https://skillicons.dev/icons?i=vue" width="20" /> </span>, <span title="Vuetify"> <img title="Vuetify" src="https://skillicons.dev/icons?i=vuetify" width="20" /> </span>, <span title="Vuex"> <img src="https://miro.medium.com/1*wqYF-8Dmh7LhtLkKfERc3Q.png" width="20" /> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>},</code>
+  name: "Smart Analytics for Responsive and Transformative Education",
+  description: "A web application that centralizes school resource information and student-related statistics for public schools within a municipality, while serving as a platform for distributing important announcements and updates.",
+  role: "Developed web application features and user interfaces with React and collaborated with the team in designing and implementing complex system processes.",  
+  <div>tech_stack: [ <span title="TypeScript"> <img src="https://skillicons.dev/icons?i=ts" width="20" /> </span>, <span title="React"> <img src="https://skillicons.dev/icons?i=react" width="20" /> </span>, <span title="Mantine (React)"> <img title="Mantine (React)" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/mantine-icon-c1m63szvniv0bcx3cg9hizv.png/mantine-icon-bfg412sykiuu10lnp3450r.png" width="20"/> </span>, <span title="Zustand"> <img src="https://i.namu.wiki/i/lWcXbpCwKlTNMM2v_SiGVK5Q6XsnTOvH6txHs25DbpbP_XGDum3MfxpNHYDCGHxuqGeZaJ8PVZLWO9LJFGFGAA.webp" width="20" /> </span>, <span title="TanStack Query"> <img src="https://tanstack.com/images/logos/splash-light.png" width="20"/> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>},</code>
       </td>
     </tr>
     <tr>
@@ -169,9 +169,9 @@
       </td>
       <td width="1000">
         <code>{
-  name: "Citizens Health Information Management Systems",
-  description: "A web-based healthcare platform that streamlines hospital service scheduling and centralizes patient health records for residents of a municipality.",
-  role: "Led the development of system features and user interfaces while managing task delegation and maintaining an organized development workflow.",  
+  name: "Hotel Room and Booking Management System",
+  description: "A web application that simulates hotel room and booking management operations from a receptionist's perspective, serving as an educational tool for Hotel and Restaurant Management students.",
+  role: "Collected and researched project assets and developed web application features and user interfaces using Vue 2.",  
   <div>tech_stack: [ <span title="JavaScript">  <img src="https://skillicons.dev/icons?i=js" width="20" /> </span>, <span title="Vue"> <img src="https://skillicons.dev/icons?i=vue" width="20" /> </span>, <span title="Vuetify"> <img title="Vuetify" src="https://skillicons.dev/icons?i=vuetify" width="20" /> </span>, <span title="Vuex"> <img src="https://miro.medium.com/1*wqYF-8Dmh7LhtLkKfERc3Q.png" width="20" /> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>},</code>
       </td>
     </tr>
@@ -181,10 +181,10 @@
       </td>
       <td width="1000">
         <code>{
-  name: "Smart Analytics for Responsive and Transformative Education",
-  description: "A web-based healthcare platform that streamlines hospital service scheduling and centralizes patient health records for residents of a municipality.",
-  role: "Led the development of system features and user interfaces while managing task delegation and maintaining an organized development workflow.",  
-  <div>tech_stack: [ <span title="JavaScript">  <img src="https://skillicons.dev/icons?i=js" width="20" /> </span>, <span title="Vue"> <img src="https://skillicons.dev/icons?i=vue" width="20" /> </span>, <span title="Vuetify"> <img title="Vuetify" src="https://skillicons.dev/icons?i=vuetify" width="20" /> </span>, <span title="Vuex"> <img src="https://miro.medium.com/1*wqYF-8Dmh7LhtLkKfERc3Q.png" width="20" /> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>},</code>
+  name: "QuickGlance",
+  description: "A mobile application designed to improve smartphone accessibility for individuals with dexterity and mobility impairments by enabling hands-free navigation through head movements and gesture-based controls.",
+  role: "Researched face detection technologies, designed and developed the Android user interface using React Native, and contributed to the continued improvement and refinement of the application’s features.",
+      <div>tech_stack: [ <span title="TypeScript"> <img src="https://skillicons.dev/icons?i=ts" width="20" /> </span>, <span title="React Nativr"> <img src="https://skillicons.dev/icons?i=react" width="20" /> </span>, <span title="React Native Paper"> <img title="React Native Paper" src="https://img.shields.io/badge/React%20Native%20Paper-6200ee?style=for-the-badge&logo=react&logoColor=white" height="15" /> </span>, <span title="Zustand"> <img src="https://i.namu.wiki/i/lWcXbpCwKlTNMM2v_SiGVK5Q6XsnTOvH6txHs25DbpbP_XGDum3MfxpNHYDCGHxuqGeZaJ8PVZLWO9LJFGFGAA.webp" width="20" /> </span>, <span title="TanStack Query"> <img src="https://tanstack.com/images/logos/splash-light.png" width="20"/> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>},</code>
       </td>
     </tr>
     <tr>
@@ -193,10 +193,10 @@
       </td>
       <td width="1000">
         <code>{
-  name: "Citizens Health Information Management Systems",
-  description: "A web-based healthcare platform that streamlines hospital service scheduling and centralizes patient health records for residents of a municipality.",
-  role: "Led the development of system features and user interfaces while managing task delegation and maintaining an organized development workflow.",  
-  <div>tech_stack: [ <span title="JavaScript">  <img src="https://skillicons.dev/icons?i=js" width="20" /> </span>, <span title="Vue"> <img src="https://skillicons.dev/icons?i=vue" width="20" /> </span>, <span title="Vuetify"> <img title="Vuetify" src="https://skillicons.dev/icons?i=vuetify" width="20" /> </span>, <span title="Vuex"> <img src="https://miro.medium.com/1*wqYF-8Dmh7LhtLkKfERc3Q.png" width="20" /> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>}</code>
+  name: "Fire Alert",
+  description: "A fire incident reporting system with a mobile app for location-based emergency reporting and real-time rescue updates, and a web dashboard for firefighters to manage and respond to assigned incidents with AI-assisted fire classification.",
+  role: "Conceptualized the application’s workflow, designed the UI/UX using Figma, and developed both the mobile and web interfaces with React Native along with REST APIs using Laravel.",  
+  <div>tech_stack: [ <span title="TypeScript"> <img src="https://skillicons.dev/icons?i=ts" width="20" /> </span>, <span title="Laravel"> <img src="https://skillicons.dev/icons?i=laravel" width="20" /> </span>, <span title="React Nativr"> <img src="https://skillicons.dev/icons?i=react" width="20" /> </span>, <span title="Zustand"> <img src="https://i.namu.wiki/i/lWcXbpCwKlTNMM2v_SiGVK5Q6XsnTOvH6txHs25DbpbP_XGDum3MfxpNHYDCGHxuqGeZaJ8PVZLWO9LJFGFGAA.webp" width="20" /> </span>, <span title="TanStack Query"> <img src="https://tanstack.com/images/logos/splash-light.png" width="20"/> </span>, <span title="Axios"> <img src="https://avatars.githubusercontent.com/u/32372333?s=200&v=4" width="20" /> </span> ]</div>}</code>
       </td>
     </tr>
   <table>
