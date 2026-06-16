@@ -203,11 +203,12 @@
   <code>],</code>
 </div>
 
-
-
-<!-- <code>const CONTACT ME = { 
-  mobile_number: "09278279865",
-  email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rhymesescortez2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail" /> </a>,
-  linkedin: <a href="https://www.linkedin.com/in/rhymeses-cortez/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
-}</code> -->
+<div>
+  <h3>const CONTACT_ME =</h3>
+</div>
+<code> { 
+  <a href="https://github.com/sesthedev/sesthedev/raw/main/assets/Rhymeses-Cortez-Resume.pdf"> <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader" /> </a>,
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rhymesescortez2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail" /> </a>,
+  <a href="https://www.linkedin.com/in/rhymeses-cortez/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
+}</code> 
 
