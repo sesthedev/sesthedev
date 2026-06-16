@@ -204,11 +204,11 @@
 </div>
 
 <div>
-  <h3>const CONTACT_ME =</h3>
+  <h3>const CONNECT_WITH_ME =</h3>
 </div>
-<code> { 
-  <a href="https://github.com/sesthedev/sesthedev/raw/main/assets/Rhymeses-Cortez-Resume.pdf"> <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader" /> </a>,
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rhymesescortez2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail" /> </a>,
-  <a href="https://www.linkedin.com/in/rhymeses-cortez/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
+<code>{ 
+  <a href="https://raw.githubusercontent.com/sesthedev/sesthedev/main/Rhymeses%20E.%20Cortez%20-%20Resume.pdf"> <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=0B1F3A" /> </a>,
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rhymesescortez2000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail&labelColor=0B1F3A" /> </a>,
+  <a href="https://www.linkedin.com/in/rhymeses-cortez/" target="_blank"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1F3A" /> </a>
 }</code> 
 
